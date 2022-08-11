@@ -4,7 +4,7 @@ public class SecretNumber {
     public static void main(String[] args) {
 
 //        Prompt user to input number
-        System.out.println("Please enter your number guess");
+        System.out.println("Welcome. Please enter your number guess.");
 
 //        Collect user input
         Scanner reader = new Scanner(System.in); // creates scanner object
