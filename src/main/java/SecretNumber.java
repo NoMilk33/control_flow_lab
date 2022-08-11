@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; //necessary for scanner object
 
 public class SecretNumber {
     public static void main(String[] args) {
